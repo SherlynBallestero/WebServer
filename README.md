@@ -9,4 +9,4 @@ gcc -o webserver webserver.c wslibs.c
 
 # 2) Para ejecutar el webserver haga en la consola con el puerto y el directorio raiz deseado:
 
-./webserver <puerto> <directorio>
+./webserver /<puerto/> /<directorio/>
