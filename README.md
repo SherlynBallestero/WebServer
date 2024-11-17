@@ -1,7 +1,7 @@
 # WebServer
 # Integrantes
-Sherlyn Ballestero Cruz /n
-Maria de Lourdes Choy
+Sherlyn Ballestero Cruz.
+Maria de Lourdes Choy.
 Javier Rodriguez
 
 # Informe:
